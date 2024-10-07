@@ -1,2 +1,2 @@
 # javasenha
-gerador de senha java
+gerador de senha Java
